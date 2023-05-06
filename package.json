@@ -32,7 +32,7 @@
     "husky": "^8.0.3",
     "jest": "^29.5.0",
     "npm-check-updates": "^16.10.9",
-    "rimraf": "^4.4.1",
+    "rimraf": "^5.0.0",
     "typescript": "^5.0.4"
   },
   "husky": {
