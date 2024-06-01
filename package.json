@@ -28,7 +28,7 @@
     "@netly/prettier-config": "1.2.0",
     "@netly/semantic-release-config": "1.0.3",
     "@types/jest": "^29.5.3",
-    "esbuild": "^0.19.5",
+    "esbuild": "^0.21.4",
     "husky": "^8.0.3",
     "jest": "^29.6.2",
     "npm-check-updates": "^16.14.6",
